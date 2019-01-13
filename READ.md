@@ -9,3 +9,7 @@
 ### Run test
 
 `npm test` 
+
+### Run the validate-tests
+
+`./run-validate-tess.sh`
