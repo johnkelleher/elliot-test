@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 
-./validate-tests "npm test" "src" "src/simple-function.js" "test(" "test(" ".test.js"
+./validate-tests "npm test" "/Users/john/Code/elliot-test/" "src/simple-function.js" "" "" ".test.js"
